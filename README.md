@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Mobile Flutter developer from Uzbekistan</h3>
 
 
-- 🔭 I’m currently working on [my startup project bookhub](bookhub.uz)
+- 🔭 I’m currently working on [my startup project, bookhub](bookhub.uz)
 
 - 🌱 I’m currently learning **Firebase, Bloc**
 
