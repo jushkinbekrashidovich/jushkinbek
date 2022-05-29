@@ -1,4 +1,4 @@
-<h1><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="200" height="40"/></h1>
+<h1><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="700" height="300"/></h1>
 <h1 align="center">Hi 👋, I'm Jushkinbek Bekniyozov</h1>
 <h3 align="center">A passionate Mobile Flutter developer from Uzbekistan</h3>
 
