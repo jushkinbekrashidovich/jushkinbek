@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **Firebase, Bloc**
 
-- 📫 How to reach me **jushqinbekbekniyozov@gmail.com @jushkinbek_rashidovich on telegram**
-
+- 📫 How to reach me **jushqinbekbekniyozov@gmail.com** or **[jushkinbek_rashidovich](https://t.me/Jushkinbek_Rashidovich)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jushkinbek-bekniyozov-6a3754203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jushkinbek-bekniyozov-6a3754203" height="30" width="40" /></a>
