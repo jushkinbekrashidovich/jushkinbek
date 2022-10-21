@@ -5,7 +5,7 @@
 
 - 🌱  I’m currently learning Firebase.
 
-- 💫  I am open to work on new ideas.
+- 💫  I am open to working on new ideas.
 
 - 📫  How to reach me: https://t.me/Jushkinbek_Rashidovich
 
