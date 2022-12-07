@@ -1,11 +1,11 @@
 
-### Hi there 👋
+### Hi 👋
 
 - 🔭  I’m currently working on Flutter.
 
-- 🌱  I’m currently learning Firebase.
+- 🌱  I’m currently learning Firebase, Python.
 
-- 💫  I am open to working on new ideas.
+- 🚀  I am open to working on new ideas.
 
 - 📫  How to reach me: https://t.me/Jushkinbek_Rashidovich
 
