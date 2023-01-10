@@ -1,9 +1,9 @@
 
 ### Hi 👋
 
-- 🔭  I’m currently working on Flutter.
+- 🔭  I’m a Mobile Flutter Developer.
 
-- 🌱  I’m currently learning Firebase, Python.
+- 🌱  I'm looking for a new role.
 
 - 🚀  I am open to working on new ideas.
 
