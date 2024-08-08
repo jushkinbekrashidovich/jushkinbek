@@ -1,11 +1,11 @@
 
 ### Hi 👋
 
-- 🔭  I’m a Mobile Flutter Developer.
+- 🔭  Mobile Flutter Developer.
 
-- 🌱  I'm looking for a new role.
+- 🌱  Indie app creator
 
-- 🚀  I am open to working on new ideas.
+- 🚀  I build a
 
 - 📫  How to reach me: https://t.me/Jushkinbek_Rashidovich
 
