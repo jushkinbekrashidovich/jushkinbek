@@ -5,7 +5,7 @@
 
 - 🌱  Indie app creator
 
-- 🚀  I build a
+- 🚀  I build apps for fun
 
 - 📫  How to reach me: https://t.me/Jushkinbek_Rashidovich
 
