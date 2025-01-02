@@ -1,13 +1,7 @@
 
 ### Hi 👋
 
-- 🔭  Mobile Flutter Developer.
-
-- 🌱  Indie app creator.
-
-- 🚀  I build apps for fun.
-
-- 📫  How to reach me: https://t.me/Jushkinbek_Rashidovich
+- 🔭  I am Mobile Flutter Developer
 
  <details>
 <summary>📊 Github Stats</summary>
